@@ -1,0 +1,17 @@
+#define DRAW_PATTERN_GRID false
+#define DRAW_TEXTURE_GRID false
+
+#define WRITE_PERCENTAGE true
+
+#define STARTING_WINDOW_WIDTH 500
+#define STARTING_WINDOW_HEIGHT 500
+
+#define TEMPLATE_WIDTH 1
+#define TEMPLATE_HEIGHT 1
+
+#define TEXTURE_WIDTH 200
+#define TEXTURE_HEIGHT 200
+
+#define NOME_TEXTURA "Texture250.bin"
+
+#define NUM_THREADS 1
